@@ -1,0 +1,15 @@
+{
+  "name": "maxtsepkov/markdown-oo-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Max Tsepkov",
+      "email": "max@yogi.pw"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "MaxTsepkov\\Markdown": "src"
+    }
+  }
+}
